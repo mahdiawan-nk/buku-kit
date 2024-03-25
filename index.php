@@ -1,3 +1,1 @@
-<?php
-echo "Belajar PHP OOP";
-?>
+<h1>Belajar HTML</h1>
